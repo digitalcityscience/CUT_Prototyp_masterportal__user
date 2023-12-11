@@ -318,8 +318,7 @@
             "12059"
           ],
           "name": "Geobasiskarten (schwarz-grau)",
-          "crossOrigin": "anonymous",
-          "visibility": true
+          "crossOrigin": "anonymous"
         },
         {
           "id": [
@@ -332,7 +331,8 @@
             "13654",
             "13656"
           ],
-          "name": "Geobasiskarten (grau-blau)"
+          "name": "Geobasiskarten (grau-blau)",
+          "visibility": true
         },
         {
           "id": "452",
